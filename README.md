@@ -18,7 +18,7 @@ The models classify three different classes:
 
 
 You first have to download each YouTube video and extract the features. The `src/utils/download_audio.py` can guide you through. 
-We encourage you to try with more data, wider and deeper architecture and also using different features to use as input for the models.
+We encourage you to try with more data, wider and deeper architectures and also using different features as inputs for the models.
 
 If you have any questions feel free to contact us!
 
