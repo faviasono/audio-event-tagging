@@ -3,6 +3,7 @@
 Project for Automatic Speech Recognition course: build and analyzed models to classify audio into speech, music, nature sounds etc from Google Dataset AudioSet.
 
 The models have been trained in a constrained environment in terms of RAM memory and GPU. Namely, it has been used either Google Colab or personal laptop.
+A pdf presentation about the project is available in the repository! 
 
 The models implemented are:
 
